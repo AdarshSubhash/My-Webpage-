@@ -1,0 +1,38 @@
+h1 {
+    color: brown;
+}
+
+.header {
+    border: solid purple;
+    background-color: rosybrown;
+    display: flex;
+    justify-content: space-between;
+
+  
+}
+.menu{
+    border:solid chartreuse;
+   
+}
+
+.content{
+    border:green;
+    background-color: khaki;
+}
+.link{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.item{
+    display: flex;
+    justify-content: space-around;
+    border:green;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+   
+}
